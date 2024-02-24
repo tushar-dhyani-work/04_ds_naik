@@ -1,0 +1,26 @@
+## Conda
+conda create -p venv python==3.9
+conda active venv/
+
+## Git
+winget install --id GitHub.cli
+
+git init
+git add README.md
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tushar-dhyani-work/04_ds_naik.git
+git push -u origin main
+
+# Git files from the repo
+git pull origin main
+
+## requirements
+pip3 install -r requirements.txt
+
+## Setup.py
+python setup.py install
+
+#push code to git
+git add .
