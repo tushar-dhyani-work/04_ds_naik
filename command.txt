@@ -1,3 +1,4 @@
+## Tut1
 ## Conda
 conda create -p venv python==3.9
 conda active venv/
@@ -24,3 +25,10 @@ python setup.py install
 
 #push code to git
 git add .
+git commit -m "First set of commit"
+git push -u origin main
+
+# Tut2
+Automate the project structure
+Can use cookiecutter
+
