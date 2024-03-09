@@ -32,3 +32,12 @@ git push -u origin main
 Automate the project structure
 Can use cookiecutter
 
+# Tut3
+About cookiecutter
+
+# Tut4
+logging and exception handling
+
+
+# Tut5
+Data ingestion, reading Data from Mysql
